@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.raul {
+    color: rgb(15, 15, 124);
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+.iqbal
+{
+    font-weight: 500;
+    margin-left: -4px;
+    font-size: 25px;
+    color: rgb(22, 22, 187);
+ }
+
+    
+    
+    .navbar{
+        width: 1200px;
+        height: 75px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .icon{
+        width: 200px;
+        float: left;
+        margin-top: 30px;
+       
+    }
+ 
+    
+    .menu{
+        width: 900px;
+        float: right;
+        height: 70px;
+        display: flex;
+    }
+    
+    ul{
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
+    
+    ul li{
+        list-style: none;
+        margin-left: 50px;
+        margin-top: 15px;
+        font-size: 19px;
+        color: black;
+        letter-spacing: 1.5px;
+    }
+    
+    ul  {
+        text-decoration: none; font-family: Arial;
+        margin-left: 390px;
+        color: black;
+    }
+         
+     li{
+     color: black;
+     font-weight: 500;
+     letter-spacing: 1px;
+    }
+ .btn{
+        width: 140px;
+        height: 45px;
+        background: rgb(109, 138, 235);
+        color: white;
+        margin-left :80px;
+        border-radius: 8px ;
+        margin-top: 10px;
+        font-size: 17px;
+        padding-top: 1px;
+        font-weight: bold ;
+        letter-spacing: 1.5px;
+        border-color: transparent;
+    }
+    .gray{
+        width: 130px;
+        height :55px;
+        color: rgb(190, 190, 190);
+        border: 10px;
+        background-color: rgb(231, 227, 227);
+        margin-top: 13px; 
+    }
+   
