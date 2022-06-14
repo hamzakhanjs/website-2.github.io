@@ -130,6 +130,116 @@
     }
     .img1{
         width: 350px;
-        margin-left: 150px;
+        margin-left: 250px;
         margin-top: -50px;
     }
+    .content3{
+        margin-top: 80px;
+        justify-content: center;
+        margin-left: 670px;
+        color: rgb(12, 12, 100);
+
+    }
+    .additional{
+        font-weight:100 ;
+        color: rgb(43, 78, 194);
+        letter-spacing: 1.3px;
+
+    }
+   .passion {
+    font-weight:750;
+    color: rgb(25, 25, 102);
+   }
+   .f{
+    display: flex; 
+    margin-top: 100px;
+    margin-left: 310px;
+   }
+   .developer, .designer{
+    font-weight:100;
+
+   }
+   .set2 , .set1 , .set3{
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 18px gray;
+    width: 260px;
+    border-radius: 10px 10px 10px 10px;
+  
+    
+   }
+   .set2{
+    margin-left: 90px;
+    margin-right: 90px;
+   }
+   .img2, .img3, .img4 {
+    width: 100px;
+    height: 160px;
+    padding-top: 10px;
+    padding-left: 15px;
+   }   
+   .data2{
+    padding-left: 13px;
+    padding-bottom: 10px;
+   }
+
+   
+.data2
+{
+   padding-left: 18px;
+}
+.data1   {
+    padding-left:20px
+}
+.data3{
+    padding-left: 25px;
+}
+.saas ,.saas2 ,.Figma{
+    margin-top: 4px;
+}
+.front2{
+    padding-left: 10px;
+}
+.front3{
+    padding-left: 20px;
+
+
+}
+.my
+{
+    
+        font-weight:100 ;
+        color: rgb(43, 78, 194);
+        letter-spacing: 1.3px;
+
+    }
+   .portfolio {
+    font-weight:750;
+    color: rgb(25, 25, 102);
+    padding-left: 10px;
+}
+.content4{
+    padding-left: 720px;
+   margin-top: 100px;
+}
+.content5{
+    display:flex
+
+}
+.content5{
+    margin-top: 70px;
+    justify-content: center;
+    
+}
+.github, .Instagram{
+    margin-top: 13px;
+    padding-left: 12px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.Email, .Telp{
+    padding-left: 47px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
