@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial;
 }
 
 
@@ -93,4 +94,42 @@
         background-color: rgb(231, 227, 227);
         margin-top: 13px; 
     }
-   
+    .content-main{
+        display: flex;
+        margin-top: 100px;
+        margin-left: 150px;
+    }
+    .hi{
+        color:rgb(12, 12, 100);
+        font-size: 25px;
+        font-weight: 100;
+        font-family: Arial;
+        letter-spacing: 1px;
+    }
+    .name 
+    
+    { 
+        color: rgb(12, 12, 100);
+        margin-top: 12px;
+        font-weight: 2500;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+        
+    }
+    .skill{
+        color: rgb(12, 12, 100);
+        font-weight: 2500;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+        margin-top: -7px;
+    }
+    .content2{
+        margin-top: 35px;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+    }
+    .img1{
+        width: 350px;
+        margin-left: 150px;
+        margin-top: -50px;
+    }
