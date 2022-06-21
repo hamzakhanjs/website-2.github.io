@@ -250,7 +250,11 @@ font-size: 62.5%;
 .content5{
     margin-top: 7.0rem;
  
-    margin-left: 3.5rem;
+   width: 150rem;
+   display: flex;
+   justify-content: center;
+   
+
     
 }
 .github, .Instagram{
@@ -268,10 +272,4 @@ font-size: 62.5%;
 }
 
 
-@media (max-width:600px )
-
-{
-    main{
-        flex-direction: column;
-    }
 }
